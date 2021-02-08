@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/jeanchilger?color=5764a6)
+
 # Hello World! I'm Jean Carlo Hilger
 A computer science student passionate about Deep Learning, NLP and Computer Vision.
 
