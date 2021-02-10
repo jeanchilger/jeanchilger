@@ -1,9 +1,9 @@
 # Hello World 👋, I'm Jean Carlo Hilger
 #### A computer science undergraduate student.
 
-- :microscope: Diving into deep learning and natural language processing;
-- :camera: Computer vision has a special place in my heart;
-- :heart: Open source!!;
+- :microscope: Diving into deep learning and natural language processing
+- :camera: Computer vision has a special place in my heart
+- :heart: Open source!!
 
 <br />
 
