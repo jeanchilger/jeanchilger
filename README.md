@@ -14,6 +14,7 @@
 <img align="left" width="30px" height="auto" alt="C" title="C" src="https://simpleicons.org/icons/c.svg" />
 <img align="left" width="30px" height="auto" alt="C++" title="C++" src="https://simpleicons.org/icons/cplusplus.svg" />
 <img align="left" width="30px" height="auto" alt="Emberjs" title="Emberjs" src="https://simpleicons.org/icons/ember-dot-js.svg" />
+<img align="left" width="30px" height="auto" alt="Gatsby" title="Gatsby" src="https://simpleicons.org/icons/gatsby.svg" />
 <img align="left" width="30px" height="auto" alt="Git" title="Git" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" width="30px" height="auto" alt="Java" title="Java" src="https://simpleicons.org/icons/java.svg" />
 <img align="left" width="30px" height="auto" alt="JavaScript" title="JavaScript" src="https://simpleicons.org/icons/javascript.svg" />
@@ -27,6 +28,7 @@
 <img align="left" width="30px" height="auto" alt="Reactjs" title="Reactjs" src="https://simpleicons.org/icons/react.svg" />
 <img align="left" width="30px" height="auto" alt="Sass" title="Sass" src="https://simpleicons.org/icons/sass.svg" />
 <img align="left" width="30px" height="auto" alt="Scikit Learn" title="Scikit Learn" src="https://simpleicons.org/icons/scikit-learn.svg" />
+<img align="left" width="30px" height="auto" alt="Spring" title="Spring" src="https://simpleicons.org/icons/spring.svg" />
 <img align="left" width="30px" height="auto" alt="Tensorflow" title="Tensorflow" src="https://simpleicons.org/icons/tensorflow.svg" />
 <!-- </p> -->
 
