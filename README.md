@@ -1,5 +1,5 @@
 # Hello World 👋, I'm Jean Carlo Hilger
-#### A computer science undergraduate student.
+**Computer science undergraduate student.**
 
 - :microscope: Diving into deep learning and natural language processing
 - :camera: Computer vision has a special place in my heart
@@ -20,6 +20,7 @@
 <img align="left" width="30px" height="auto" alt="JavaScript" title="JavaScript" src="https://simpleicons.org/icons/javascript.svg" />
 <img align="left" width="30px" height="auto" alt="Keras" title="Keras" src="https://simpleicons.org/icons/keras.svg" />
 <img align="left" width="30px" height="auto" alt="Laravel" title="Laravel" src="https://simpleicons.org/icons/laravel.svg" />
+<img align="left" width="30px" height="auto" alt="LaTex" title="LaTex" src="https://simpleicons.org/icons/latex.svg" />
 <img align="left" width="30px" height="auto" alt="Linux" title="Linux" src="https://simpleicons.org/icons/linux.svg" />
 <img align="left" width="30px" height="auto" alt="Nodejs" title="Nodejs" src="https://simpleicons.org/icons/node-dot-js.svg" />
 <img align="left" width="30px" height="auto" alt="OpenCV" title="OpenCV" src="https://simpleicons.org/icons/opencv.svg" />
