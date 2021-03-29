@@ -39,5 +39,5 @@
 
 ## Github Stats:
 <!-- Github Stats -->
-![jeanchilger's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanchilger&show_icons=true&count_private=true&hide_border=true&title_color=fff&text_color=efefef&icon_color=fff&bg_color=45,d44e37,5764a6)
+![jeanchilger's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanchilger&show_icons=true&count_private=true&hide_border=true&title_color=fff&text_color=efefef&icon_color=fff&bg_color=45,d44e37,5764a6&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanchilger&layout=compact&hide=starlark&langs_count=7&hide_border=true&title_color=5764a6&text_color=5764a6)
