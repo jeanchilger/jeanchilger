@@ -17,7 +17,7 @@
 <img align="left" width="30px" height="auto" alt="Emberjs" title="Emberjs" src="https://simpleicons.org/icons/emberdotjs.svg" />
 <img align="left" width="30px" height="auto" alt="Gatsby" title="Gatsby" src="https://simpleicons.org/icons/gatsby.svg" />
 <img align="left" width="30px" height="auto" alt="Git" title="Git" src="https://simpleicons.org/icons/git.svg" />
-<img align="left" width="30px" height="auto" alt="Java" title="Java" src="https://simpleicons.org/icons/java.svg" />
+<!-- <img align="left" width="30px" height="auto" alt="Java" title="Java" src="https://simpleicons.org/icons/java.svg" /> -->
 <img align="left" width="30px" height="auto" alt="JavaScript" title="JavaScript" src="https://simpleicons.org/icons/javascript.svg" />
 <img align="left" width="30px" height="auto" alt="Keras" title="Keras" src="https://simpleicons.org/icons/keras.svg" />
 <img align="left" width="30px" height="auto" alt="Laravel" title="Laravel" src="https://simpleicons.org/icons/laravel.svg" />
