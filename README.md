@@ -4,12 +4,14 @@ Software Engineer specializing in SaaS platforms, AI-powered products, and distr
 
 I build software products from idea to production, combining engineering, architecture, and automation to deliver reliable systems at scale.
 
-## Current interests
+## Currently exploring
+
+Technologies and ideas I am actively studying and experimenting with:
 
 - AI-native applications
 - Collaborative software
 - Distributed systems
-- Developer tooling
+- Agentic workflows
 
 ## Links
 
